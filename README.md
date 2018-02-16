@@ -1,6 +1,6 @@
 # clj-statistics-fns
 
-[![Clojars Project](https://img.shields.io/clojars/v/mnylen/clj-statistics-fns.svg)](https://clojars.org/mnylen/clj-statistics-fns)
+[![Build Status](https://travis-ci.org/mnylen/clj-statistics-fns.svg?branch=master)](https://travis-ci.org/mnylen/clj-statistics-fns) [![Clojars Project](https://img.shields.io/clojars/v/mnylen/clj-statistics-fns.svg)](https://clojars.org/mnylen/clj-statistics-fns)
 
 A simple Clojure library for calculating some common statistics of data sets:
 minimum, maximum, average, median and k-th percentile.
