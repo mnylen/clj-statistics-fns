@@ -5,6 +5,10 @@ minimum, maximum, average, median and k-th percentile.
 
 ## Usage
 
+First, install by adding to your dependencies array:
+
+    [mnylen/clj-statistics-fns "0.1.0"]
+
 ### Supported operations:
 
     (require '[clj-statistics-fns.core :as s])
